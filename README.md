@@ -11,4 +11,4 @@ A modern security incident dashboard for monitoring CCTV feeds, managing inciden
 
 - **Database Integration:** Uses Prisma ORM and PostgreSQL for data storage.
 
-#### Live Demo : [SecureSight]()
+#### Live Demo : [SecureSight](https://secure-sight-henna.vercel.app/)
